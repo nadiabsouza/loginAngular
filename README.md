@@ -1,3 +1,6 @@
+
+![login-removebg-preview](https://user-images.githubusercontent.com/102123328/184472951-85aee068-219a-4882-9fef-ba85b37e4e1c.png)
+
 # LoginApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.1.
